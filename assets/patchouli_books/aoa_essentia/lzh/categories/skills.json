@@ -1,5 +1,4 @@
 {
-  "description": "$(aoa) comes with 10 unique skills for you to train and level up.",
-  "icon": "aoa3:giant_skill_crystal",
-  "name": "Skills"
+  "description": "$(aoa)具十技，練技可升階。",
+  "name": "技"
 }

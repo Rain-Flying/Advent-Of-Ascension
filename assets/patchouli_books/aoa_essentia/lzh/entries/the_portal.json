@@ -1,101 +1,101 @@
 {
-  "category": "aoa3:guides",
+  "category": "",
   "extra_recipe_mappings": {
-    "aoa3:carved_rune_of_power": 4
+    "aoa3:carved_rune_of_power": ""
   },
-  "icon": "aoa3:abyss_portal",
+  "icon": "",
   "name": "結界門",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "To get around to other $(aoa) dimensions, you will need to construct your own portal.$(br2)$(aoa) portals are made from $(thing)Ancient Rock$() and $(thing)Carved Runes$(), and must be constructed in a specific shape.$(br2)To make a portal frame, make a vertical, hollow rectangle out of $(thing)Ancient Rock$(), then replace the bottom center block with a $(l:aoa3:the_portal#carved_rune_of_power)Carved Rune of Power$(/l).",
+      "type": "",
+      "text": "",
       "title": "結界門"
     },
     {
-      "type": "patchouli:text",
-      "text": "From there, you must insert $(l)one$() of each of four $(thing)Carved Runes$() anywhere into the frame:$(br2)$(thing)Carved Rune of Reality$()$(br2)$(thing)Carved Rune of Travel$()$(br2)$(thing)Carved Rune of Space$()$(br2)$(thing)Carved Rune of Direction$()"
+      "type": "",
+      "text": "措四$(thing)雕符$()各$(l)一$()於架中：$(br2)$(thing)今$()$(br2)$(thing)古$()$(br2)$(thing)宇$()$(br2)$(thing)位$()"
     },
     {
-      "type": "patchouli:multiblock",
-      "anchor": "portal_frame",
+      "type": "",
+      "anchor": "",
       "multiblock": {
         "mapping": {
-          "0": "aoa3:carved_rune_of_power",
-          "A": "aoa3:carved_rune_of_space",
-          "B": "aoa3:carved_rune_of_direction",
-          "C": "aoa3:carved_rune_of_reality",
-          "D": "aoa3:carved_rune_of_travel",
-          "a": "aoa3:ancient_rock"
+          "0": "",
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": "",
+          "a": ""
         },
         "pattern": [
           [
-            "a",
-            "a",
-            "a",
-            "a",
-            "a"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           [
-            "C",
-            " ",
-            " ",
-            " ",
-            "D"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           [
-            "a",
-            " ",
-            " ",
-            " ",
-            "a"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           [
-            "a",
-            " ",
-            " ",
-            " ",
-            "a"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           [
-            "A",
-            " ",
-            " ",
-            " ",
-            "B"
+            "",
+            "",
+            "",
+            "",
+            ""
           ],
           [
-            "a",
-            "a",
-            "0",
-            "a",
-            "a"
+            "",
+            "",
+            "",
+            "",
+            ""
           ]
         ]
       },
       "name": "結界門匡",
-      "text": "The portal must contain the 5 runes and 13 rock."
+      "text": "此匡必含雕符五，巖一十有三。"
     },
     {
-      "type": "patchouli:text",
-      "text": "Four of the carved runes can be found throughout the Overworld, stashed away in loot chests, dropped from various creatures, or through various actions.$(br2)The fifth one; the $(l:aoa3:the_portal#carved_rune_of_power)Carved Rune of Power$(/l), is crafted by you."
+      "type": "",
+      "text": "四雕符者，可尋諸主界，如得於貨箱，遺於生靈等，亦可得以他法。$(br2)此第五者，$(l:aoa3:the_portal#carved_rune_of_power)能量雕符$(/l)也，必親製之。"
     },
     {
-      "type": "patchouli:crafting",
-      "anchor": "carved_rune_of_power",
-      "recipe": "aoa3:crafting_shaped_carved_rune_of_power",
+      "type": "",
+      "anchor": "",
+      "recipe": "",
       "text": "",
       "title": "能量雕符"
     },
     {
-      "type": "patchouli:text",
-      "text": "Once the portal frame has been constructed, you can activate it by using a $(thing)Realmstone$() of some kind on it. One portal can be used to take you to many worlds."
+      "type": "",
+      "text": "一日結界門匡落成，可啟之以$(thing)領域石$()，一門足以傳君至諸生界。"
     },
     {
-      "type": "patchouli:link",
+      "type": "",
       "link_text": "漫路求索大典",
-      "text": "More information can be found on the $(thing)official wiki$().",
-      "url": "https://adventofascension.fandom.com/wiki/Ancient_Teleportation#Creating_the_portal_frame"
+      "text": "訪$(thing)官之大典$()以尋其詳情。",
+      "url": ""
     }
   ],
-  "sortnum": 2
+  "sortnum": ""
 }

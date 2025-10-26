@@ -1,31 +1,31 @@
 {
-  "category": "aoa3:weapons",
-  "icon": "minecraft:bow",
+  "category": "",
+  "icon": "",
   "name": "弓",
   "pages": [
     {
-      "type": "patchouli:text",
+      "type": "",
       "anchor": "弓",
-      "text": "$(thing)Bows$() in $(thing)Minecraft$() are the simplest way to increase your combat flexibility.$(br)With a short-to-moderate draw time, you can launch an $(thing)arrow$() through the air at high speed to hit targets from far away.$(br2)Be aware that different bows have different draw times.",
+      "text": "",
       "title": "弓"
     },
     {
-      "type": "patchouli:text",
-      "text": "While all $(thing)bows$() function in mostly the same way, it's important to note that each bow will have its own slightly different characteristics.$(br2)Some $(thing)bows$() will take more or less time to nock an $(thing)arrow$(), and some will shoot the released $(thing)arrow$() shorter or further away."
+      "type": "",
+      "text": ""
     },
     {
-      "type": "patchouli:spotlight",
-      "item": "aoa3:alacrity_bow",
-      "text": "$(thing)Bows$() offer the versatility of ranged combat, for a low-cost ammunition tradeoff.",
+      "type": "",
+      "item": "",
+      "text": "",
       "title": "一弓"
     },
     {
-      "type": "patchouli:link",
+      "type": "",
       "link_text": "漫路求索大典",
       "text": "尋$(aoa)諸$(thing)弓$()之詳情於$(thing)官之大典$()。",
       "title": "博聞",
-      "url": "https://adventofascension.fandom.com/wiki/Bows"
+      "url": ""
     }
   ],
-  "sortnum": 3
+  "sortnum": ""
 }

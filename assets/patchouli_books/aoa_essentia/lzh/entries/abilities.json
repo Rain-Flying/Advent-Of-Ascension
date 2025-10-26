@@ -1,17 +1,17 @@
 {
-  "category": "aoa3:skills",
-  "icon": "minecraft:potion",
+  "category": "",
+  "icon": "",
   "name": "能",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "All $(aoa) $(thing)skills$() come with a list of unlockable $(thing)abilities$() that give various bonuses and effects as you level up.$(br)Each $(thing)skill$() has different available $(thing)abilities$() at different levels.",
+      "type": "",
+      "text": "諸$(thing)技$()有諸$(thing)能$()，升階以啟能，供君以增益。$(thing)技$()$(thing)能$()各異，階亦不同。",
       "title": "技之能"
     },
     {
-      "type": "patchouli:text",
-      "text": "Every individual $(thing)ability$() can be disabled and re-enabled in the $(l:aoa3:advent_gui_base#advent_gui)Advent GUI$(/l), so if you don't like a particular ability or just don't want to use it for a while, you can toggle it off."
+      "type": "",
+      "text": "諸$(thing)能$()皆可啟抑棄於$(l:aoa3:advent_gui_base#advent_gui)漫路求索介面$(/l)，若汝不喜某能，抑暫不欲用之，即可棄之。"
     }
   ],
-  "sortnum": 1
+  "sortnum": ""
 }

@@ -1,6 +1,4 @@
 {
-  "parent": "aoa3:interfaces",
-  "description": "The $(thing)Advent GUI$() is the primary GUI that $(aoa) uses, serving as a sort of hub for the mod itself.",
-  "icon": "minecraft:filled_map",
-  "name": "Advent GUI"
+  "description": "$(thing)漫路求索介面$()，$(aoa)之卷首也。",
+  "name": "漫路求索介面"
 }

@@ -1,5 +1,4 @@
 {
-  "description": "$(aoa) comes with a few important $(thing)interfaces$() that you should be aware of. These $(thing)interfaces$() give you access to critical in-game information, or access to helpful functions not found anywhere else.",
-  "icon": "minecraft:map",
-  "name": "Interfaces"
+  "description": "君須知漫路求索具諸必要$(thing)介面$()也。是$(thing)介面$()供君以嬉遊之詳情，抑供君以助不可得於他處。",
+  "name": "介面"
 }
